@@ -1,0 +1,21 @@
+{
+  "name": "luniat-engineering",
+  "private": true,
+  "description": "Tested code from the Luniat Engineering series \"AI in production\".",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "tsc -p tsconfig.json && vitest run",
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.8",
+    "@electric-sql/pglite-pgvector": "^0.0.9",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.9.3",
+    "vitest": "^2.1.0"
+  }
+}
