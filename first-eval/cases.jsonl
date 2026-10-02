@@ -1,0 +1,4 @@
+{"id":"retur-30-dagar","question":"Hur länge har jag på mig att returnera en vara?","mustInclude":["30 dagar"],"mustNotInclude":["14 dagar"]}
+{"id":"retur-skadad","question":"Min lampa kom trasig, vad gör jag?","mustInclude":["bild"],"mustNotInclude":["betala"]}
+{"id":"leverans-tid","question":"När kommer mitt paket?","mustInclude":["två arbetsdagar"]}
+{"id":"ingen-gissning","question":"Har ni öppet på midsommarafton?","mustInclude":["vet inte"],"mustNotInclude":["öppet till"]}

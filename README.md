@@ -17,6 +17,14 @@ Every snippet in the articles is taken from this code. It is type-checked with s
 | 09 | [Observability for LLM systems: traces, metrics and samples without leaking data](https://luniat.com/en/magazine/engineering/observability-for-llm-systems) | [`observability/`](./observability) |
 | 10 | [Agents in production: state machines, budgets and humans in the loop](https://luniat.com/en/magazine/engineering/agents-in-production) | [`agents/`](./agents) |
 
+## Våga hela vägen (in Swedish)
+
+Shorter, practical articles for teams with an AI demo that works but has not shipped yet. Code from those articles:
+
+| Nr | Article | Code |
+| --- | --- | --- |
+| 03 | [Ert första test av AI-svaren, på en eftermiddag](https://luniat.com/sv/magazine/vaga-hela-vagen/forsta-testet) | [`first-eval/`](./first-eval) |
+
 ## Running it
 
 ```sh
